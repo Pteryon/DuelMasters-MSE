@@ -1,0 +1,216 @@
+mse version: 2.1.2
+short name: Duel Masters
+full name: Duel Masters
+icon: icon.png
+position hint: 02
+installer group: duel-masters/game
+
+version: 2022-08-22
+
+
+init script:
+	include file: script
+
+card field:
+	type: choice
+	editable: false
+	name: background
+	initial: background
+	choice: background
+
+card field:
+	type: choice
+	name: cost
+	editable: false
+	initial: cost
+	choice: cost
+
+card field:
+	type: text
+	name: cost_text
+
+card field:
+	type: choice
+	name: kingdom
+	editable: false
+	initial: kingdom
+	choice: kingdom
+
+card field:
+	type: choice
+	name: kingdom_text
+	initial: ""
+	choice: ""
+	choice: df
+	choice: dn
+	choice: fn
+	choice: ld
+	choice: lf
+	choice: ln
+	choice: lw
+	choice: wd
+	choice: wf
+	choice: wn
+	choice: j
+	script: input_filter(value)
+
+card field:
+	type: choice
+	name: type
+	editable: false
+	initial: type
+	choice: type
+
+card field:
+	type: choice
+	name: type_text
+	description: Card type
+	initial: c
+	choice: c
+	choice: e
+	choice: s
+	script: input_filter_2(value)
+
+card field:
+	type: choice
+	name: power
+	editable: false
+	initial: power
+	choice: power
+
+card field:
+	type: choice
+	name: power_text
+	initial: 1
+	choice: 1
+	choice: 2
+	choice: 3
+	script: input_filter_3(value)
+
+card field:
+	type: text
+	name: power_number
+
+card field:
+	type: choice
+	name: symbol
+	description: Civilization
+	editable: false
+	initial: symbol
+	choice: symbol
+
+card field:
+	type: choice
+	name: symbol_text
+	initial: l
+	choice: l
+	choice: w
+	choice: d
+	choice: f
+	choice: n
+	choice:
+		name: c
+		line below: true
+	choice: lj
+	choice: wj
+	choice: dj
+	choice: fj
+	choice: nj
+	choice:
+		name: cj
+		line below: true
+	choice: lw
+	choice: wd
+	choice: df
+	choice: fn
+	choice: ln
+	choice: ld
+	choice: dn
+	choice: wn
+	choice: wf
+	choice: lf
+
+card field:
+	type: image
+	name: image
+
+card field:
+	type: text
+	name: flavor
+	description: Flavor text
+	multi line: true
+
+card field:
+	type: text
+	name: illus
+	description: Illustrator
+
+card field:
+	type: text
+	name: effect
+	multi line: true
+
+card field:
+	type: text
+	name: text
+	description: Effect text
+	multi line: true
+
+card field:
+	type: text
+	name: name
+	description: Name
+	identifying: true
+
+card field:
+	type: text
+	name: subtype
+	script: input_filter_5(value)
+
+card field:
+	type: choice
+	name: rarity_text
+	initial: ""
+	choice: ""
+	choice: 1
+	choice: 2
+	choice: 3
+	script: input_filter_3(value)
+
+card field:
+	type: choice
+	name: civspell
+	editable: false
+	initial: civspell
+	choice : civspell
+
+card field:
+	type: choice
+	name: civspell_text
+	initial: 0
+	choice: 0
+	choice: 1
+	script: input_filter_3(value)
+
+card field:
+	type: choice
+	name: type_color
+	initial: 0
+	choice: 0
+	choice: 1
+	script: input_filter_3(value)
+
+card field:
+	type: choice
+	name: thorns
+	editable: false
+	initial: thorns
+	choice : thorns
+
+card field:
+	type: choice
+	name: thorns_text
+	initial: 0
+	choice: 0
+	choice: 1
+	script: input_filter_3(value)

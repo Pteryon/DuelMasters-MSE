@@ -1,0 +1,53 @@
+mse version: 2.0.0
+installer group: duel-masters/symbol-font
+
+image font size: 105
+horizontal space: -5
+
+symbol:
+	code: 1
+	image: 1.png
+
+symbol:
+	code: 2
+	image: 2.png
+
+symbol:
+	code: 3
+	image: 3.png
+
+symbol:
+	code: 4
+	image: 4.png
+
+symbol:
+	code: 5
+	image: 5.png
+
+symbol:
+	code: 6
+	image: 6.png
+
+symbol:
+	code: 7
+	image: 7.png
+
+symbol:
+	code: 8
+	image: 8.png
+
+symbol:
+	code: 9
+	image: 9.png
+
+symbol:
+	code: 0
+	image: 0.png
+
+symbol:
+	code: +
+	image: +.png
+
+symbol:
+	code: Kirifudash
+	image: kirifudash.png

@@ -1,0 +1,329 @@
+mse version: 2.1.2
+game: duel-masters
+short name: Normal
+full name: Joe Era Frame
+icon: icon.png
+position hint: 1
+installer group: duel-masters/style
+
+version: 2022-08-22
+
+depends on:
+	package: duel-masters.mse-game
+	version: 2022-08-22
+depends on:
+	package: duel-masters-symbols.mse-symbol-font
+depends on:
+	package: duel-masters-keywords.mse-symbol-font
+
+card width: 1489
+card height: 2080
+card dpi: 600
+card background: transparent
+
+card style:
+
+	background:
+		top: 0
+		left: 0
+		height: 2080
+		width: 1489
+		render style: image
+		mask: script: rarity_filter(value)
+		z index: 2
+		choice images:
+			background: script: background_filter(value)
+
+
+	image:
+		top: 0
+		left: 0
+		height: 2080
+		width: 1489
+		z index: 0
+
+
+	cost:
+		top: 0
+		left: 0
+		height: 2080
+		width: 1489
+		render style: image
+		z index: 10
+		choice images:
+			cost: script: cost_filter(value)
+
+	cost_text:
+		top: 83
+		left: 49
+		height: 115
+		width: 182
+		always symbol: true
+		alignment: middle-center-shrink if overflow
+		z index : 10
+
+		symbol font:
+			name: duel-masters-symbols
+			size : 105
+
+
+	kingdom:
+		top: 0
+		left: 1089
+		height: 300
+		width: 400
+		render style: image
+		z index: 4
+		choice images:
+			kingdom: script: kingdom_filter(value)
+
+
+	kingdom_text:
+		top: 30
+		left: 1385
+		height: 75
+		width: 75
+		z index: 10
+		
+		font:
+			name: roboto regular
+			size: 30
+			color: transparent
+
+
+	type:
+		top: 0
+		left: 0
+		height: 2080
+		width: 1489
+		render style: image
+		z index: 3
+		choice images:
+			type: script: type_filter(value)
+
+
+	type_text:
+		top: 1288
+		left: 75
+		height: 80
+		width: 525
+		z index: 10
+		
+		font:
+			name: roboto regular
+			size: 30
+			color: transparent
+
+	power:
+		top: 0
+		left: 0
+		height: 2080
+		width: 1489
+		render style: image
+		z index: 3
+		choice images:
+			power: script: power_filter(value)
+
+	power_text:
+		top: 1918
+		left: 0
+		height: 115
+		width: 60
+		z index: 10
+		
+		font:
+			name: roboto regular
+			size: 30
+			color: transparent
+			
+
+
+	power_number:
+		top: 1918
+		left: 70
+		height: 115
+		width: 276
+		always symbol: true
+		alignment: left justified
+		always symbol : true
+		z index: 10
+		
+		symbol font:
+			name: duel-masters-symbols
+			size : 105
+
+
+	symbol:
+		top: 0
+		left: 0
+		height: 2080
+		width: 1489
+		render style: image
+		z index: 4
+		choice images:
+			symbol: script: symbol_filter(value)
+
+	civspell:
+		top: 0
+		left: 0
+		height: 2080
+		width: 1489
+		render style: image
+		visible: script: if card.civspell_text == "1" and card.type_text == "s" then true
+		z index: 3
+		choice images:
+			civspell: script: civspell_filter(value)
+
+	civspell_text:
+		top: 125
+		left: 1385
+		height: 75
+		width: 75
+		z index: 10
+		
+		font:
+			name: roboto regular
+			size: 30
+			color: transparent
+
+	type_color:
+		top: 225
+		left: 1385
+		height: 75
+		width: 75
+		z index: 10
+		
+		font:
+			name: roboto regular
+			size: 30
+			color: transparent
+
+
+	symbol_text:
+		top: 1880
+		left: 669
+		height: 150
+		width: 150
+		z index: 10
+
+
+	text:
+		top: 1367
+		left: 0
+		height: 480
+		width: 1489
+		alignment: left justified
+		padding top: 40
+		padding left: 120
+		padding right: 120
+		z index: 9
+		font:
+			name: Officina Sans
+			italic: Officina Sans Regular Italic
+			size: 36
+			scale down to: 20
+			color: rgb(0,0,0)
+
+		symbol font:
+			name: duel-masters-keywords
+			size : 25
+			scale down to: 5
+
+	flavor:
+		top: 1700
+		left: 0
+		height: 200
+		width: 1489
+		alignment: left justified
+		padding top: 40
+		padding left: 120
+		padding right: 120
+		z index: 10
+		font:
+			name: Officina Sans
+			italic: Officina Sans Regular Italic
+			size: 28
+			scale down to: 20
+			color: rgb(0,0,0)
+
+	illus:
+		top: 1288
+		left: 605
+		height: 80
+		width: 805
+		alignment: right justified
+		padding top: 10
+		padding bottom: 10
+		padding left: 40
+		padding right: 40
+		z index: 9
+		font:
+			name: Noto Sans Condensed Bold
+			size: 28
+			scale down to: 20
+			color: rgb(255, 255, 255)
+			shadow color: rgb(0, 0, 0)
+			shadow displacement x: 5
+			shadow displacement y: 5
+
+	subtype:
+		top: script: if card.civspell_text == "1" then 242 else 252 
+		left: 279
+		height: 36
+		width: 1086
+		padding right: script: if card.kingdom_text == "" then 0 else 220
+		alignment: middle-center-shrink if overflow
+		z index : 10
+		font:
+			name: Armada Bold
+			size: 25
+			color: script: if card.type_color == "1" then rgb(0,0,0) else rgb(255,255,255)
+	name:
+		top: 110
+		left: 279
+		height: 110
+		width: 1086
+		padding right: script: if card.kingdom_text == "" then 0 else 220
+		alignment: bottom-center-shrink if overflow
+		z index : 10
+		font:
+			name: perceval Bold
+			size: 80
+			color: rgb(0,0,0)
+
+	rarity_text:
+		top: 1975
+		left: 1385
+		height: 75
+		width: 75
+		z index: 10
+		
+		font:
+			name: roboto regular
+			size: 30
+			color: transparent
+
+	thorns:
+		top: 0
+		left: 0
+		height: 2080
+		width: 1489
+		render style: image
+		visible: script: if card.thorns_text == "1" then true
+		z index: 3
+		choice images:
+			thorns: script: thorns_filter(value)
+
+
+	thorns_text:
+		top: 30
+		left: 30
+		height: 75
+		width: 75
+		z index: 10
+		
+		font:
+			name: roboto regular
+			size: 30
+			color: transparent
+			

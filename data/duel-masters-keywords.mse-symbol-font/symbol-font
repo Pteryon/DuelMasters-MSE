@@ -1,0 +1,1508 @@
+mse version: 2.0.0
+installer group: duel-masters/symbol-font
+
+image font size: 200
+
+symbol:
+	code: Shield Trigger.png
+	image: Shield Trigger.png
+
+symbol:
+	code: Onitime
+	image: Onitime.png
+
+symbol:
+	code: Oshiokimoon
+	image: Oshiokimoon.png
+
+symbol:
+	code: Abarechain
+	image: Abarechain.png
+
+symbol:
+	code: Blocker
+	image: Blocker.png
+
+symbol:
+	code: Kirifudash
+	image: Kirifudash.png
+
+symbol:
+	code: Kirifuda Revolution
+	image: Kirifudarevolution.png
+
+symbol:
+	code: Buzzrender
+	image: Buzzrender.png
+
+symbol:
+	code: B2
+	image: Buzzrender2.png
+
+symbol:
+	code: Double Magibomber
+	image: Doublemagibomber.png
+
+symbol:
+	code: Fushigiverse
+	image: Fushigiverse.png
+
+symbol:
+	code: Galaxyshield
+	image: Galaxyshield.png
+
+symbol:
+	code: Magibomber
+	image: Magibomber.png
+
+symbol:
+	code: Mugen Climb
+	image: Mugenclimb.png
+
+symbol:
+	code: Oniend
+	image: Oniend.png
+
+symbol:
+	code: Vividdraw
+	image: Vividdraw.png
+
+symbol:
+	code: W1.png
+	image: W1.png
+
+symbol:
+	code: W2.png
+	image: W2.png
+
+symbol:
+	code: W3.png
+	image: W3.png
+
+symbol:
+	code: W4.png
+	image: W4.png
+
+symbol:
+	code: W5.png
+	image: W5.png
+
+symbol:
+	code: W6.png
+	image: W6.png
+
+symbol:
+	code: W7.png
+	image: W7.png
+
+symbol:
+	code: W8.png
+	image: W8.png
+
+symbol:
+	code: W9.png
+	image: W9.png
+
+symbol:
+	code: W10.png
+	image: W10.png
+
+symbol:
+	code: W11.png
+	image: W11.png
+
+symbol:
+	code: W12.png
+	image: W12.png
+
+symbol:
+	code: W13.png
+	image: W13.png
+
+symbol:
+	code: W14.png
+	image: W14.png
+
+symbol:
+	code: W15.png
+	image: W15.png
+
+symbol:
+	code:D1.png
+	image:D1.png
+
+symbol:
+	code:D2.png
+	image:D2.png
+
+symbol:
+	code:D3.png
+	image:D3.png
+
+symbol:
+	code:D4.png
+	image:D4.png
+
+symbol:
+	code:D5.png
+	image:D5.png
+
+symbol:
+	code:D6.png
+	image:D6.png
+
+symbol:
+	code:D7.png
+	image:D7.png
+
+symbol:
+	code:D8.png
+	image:D8.png
+
+symbol:
+	code:D9.png
+	image:D9.png
+
+symbol:
+	code:D10.png
+	image:D10.png
+
+symbol:
+	code:D11.png
+	image:D11.png
+
+symbol:
+	code:D12.png
+	image:D12.png
+
+symbol:
+	code:D13.png
+	image:D13.png
+
+symbol:
+	code:D14.png
+	image:D14.png
+
+symbol:
+	code:D15.png
+	image:D15.png
+
+symbol:
+	code:L1.png
+	image:L1.png
+
+symbol:
+	code:L2.png
+	image:L2.png
+
+symbol:
+	code:L3.png
+	image:L3.png
+
+symbol:
+	code:L4.png
+	image:L4.png
+
+symbol:
+	code:L5.png
+	image:L5.png
+
+symbol:
+	code:L6.png
+	image:L6.png
+
+symbol:
+	code:L7.png
+	image:L7.png
+
+symbol:
+	code:L8.png
+	image:L8.png
+
+symbol:
+	code:L9.png
+	image:L9.png
+
+symbol:
+	code:L10.png
+	image:L10.png
+
+symbol:
+	code:L11.png
+	image:L11.png
+
+symbol:
+	code:L12.png
+	image:L12.png
+
+symbol:
+	code:L13.png
+	image:L13.png
+
+symbol:
+	code:L14.png
+	image:L14.png
+
+symbol:
+	code:L15.png
+	image:L15.png
+
+symbol:
+	code:N1.png
+	image:N1.png
+
+symbol:
+	code:N2.png
+	image:N2.png
+
+symbol:
+	code:N3.png
+	image:N3.png
+
+symbol:
+	code:N4.png
+	image:N4.png
+
+symbol:
+	code:N5.png
+	image:N5.png
+
+symbol:
+	code:N6.png
+	image:N6.png
+
+symbol:
+	code:N7.png
+	image:N7.png
+
+symbol:
+	code:N8.png
+	image:N8.png
+
+symbol:
+	code:N9.png
+	image:N9.png
+
+symbol:
+	code:N10.png
+	image:N10.png
+
+symbol:
+	code:N11.png
+	image:N11.png
+
+symbol:
+	code:N12.png
+	image:N12.png
+
+symbol:
+	code:N13.png
+	image:N13.png
+
+symbol:
+	code:N14.png
+	image:N14.png
+
+symbol:
+	code:N15.png
+	image:N15.png
+
+symbol:
+	code:F1.png
+	image:F1.png
+
+symbol:
+	code:F2.png
+	image:F2.png
+
+symbol:
+	code:F3.png
+	image:F3.png
+
+symbol:
+	code:F4.png
+	image:F4.png
+
+symbol:
+	code:F5.png
+	image:F5.png
+
+symbol:
+	code:F6.png
+	image:F6.png
+
+symbol:
+	code:F7.png
+	image:F7.png
+
+symbol:
+	code:F8.png
+	image:F8.png
+
+symbol:
+	code:F9.png
+	image:F9.png
+
+symbol:
+	code:F10.png
+	image:F10.png
+
+symbol:
+	code:F11.png
+	image:F11.png
+
+symbol:
+	code:F12.png
+	image:F12.png
+
+symbol:
+	code:F13.png
+	image:F13.png
+
+symbol:
+	code:F14.png
+	image:F14.png
+
+symbol:
+	code:F15.png
+	image:F15.png
+
+symbol:
+	code:DF1.png
+	image:DF1.png
+
+symbol:
+	code:DF2.png
+	image:DF2.png
+
+symbol:
+	code:DF3.png
+	image:DF3.png
+
+symbol:
+	code:DF4.png
+	image:DF4.png
+
+symbol:
+	code:DF5.png
+	image:DF5.png
+
+symbol:
+	code:DF6.png
+	image:DF6.png
+
+symbol:
+	code:DF7.png
+	image:DF7.png
+
+symbol:
+	code:DF8.png
+	image:DF8.png
+
+symbol:
+	code:DF9.png
+	image:DF9.png
+
+symbol:
+	code:DF10.png
+	image:DF10.png
+
+symbol:
+	code:DF11.png
+	image:DF11.png
+
+symbol:
+	code:DF12.png
+	image:DF12.png
+
+symbol:
+	code:DF13.png
+	image:DF13.png
+
+symbol:
+	code:DF14.png
+	image:DF14.png
+
+symbol:
+	code:DF15.png
+	image:DF15.png
+
+symbol:
+	code:DN1.png
+	image:DN1.png
+
+symbol:
+	code:DN2.png
+	image:DN2.png
+
+symbol:
+	code:DN3.png
+	image:DN3.png
+
+symbol:
+	code:DN4.png
+	image:DN4.png
+
+symbol:
+	code:DN5.png
+	image:DN5.png
+
+symbol:
+	code:DN6.png
+	image:DN6.png
+
+symbol:
+	code:DN7.png
+	image:DN7.png
+
+symbol:
+	code:DN8.png
+	image:DN8.png
+
+symbol:
+	code:DN9.png
+	image:DN9.png
+
+symbol:
+	code:DN10.png
+	image:DN10.png
+
+symbol:
+	code:DN11.png
+	image:DN11.png
+
+symbol:
+	code:DN12.png
+	image:DN12.png
+
+symbol:
+	code:DN13.png
+	image:DN13.png
+
+symbol:
+	code:DN14.png
+	image:DN14.png
+
+symbol:
+	code:DN15.png
+	image:DN15.png
+
+symbol:
+	code:FN1.png
+	image:FN1.png
+
+symbol:
+	code:FN2.png
+	image:FN2.png
+
+symbol:
+	code:FN3.png
+	image:FN3.png
+
+symbol:
+	code:FN4.png
+	image:FN4.png
+
+symbol:
+	code:FN5.png
+	image:FN5.png
+
+symbol:
+	code:FN6.png
+	image:FN6.png
+
+symbol:
+	code:FN7.png
+	image:FN7.png
+
+symbol:
+	code:FN8.png
+	image:FN8.png
+
+symbol:
+	code:FN9.png
+	image:FN9.png
+
+symbol:
+	code:FN10.png
+	image:FN10.png
+
+symbol:
+	code:FN11.png
+	image:FN11.png
+
+symbol:
+	code:FN12.png
+	image:FN12.png
+
+symbol:
+	code:FN13.png
+	image:FN13.png
+
+symbol:
+	code:FN14.png
+	image:FN14.png
+
+symbol:
+	code:FN15.png
+	image:FN15.png
+
+symbol:
+	code:FN1.png
+	image:FN1.png
+
+symbol:
+	code:FN2.png
+	image:FN2.png
+
+symbol:
+	code:FN3.png
+	image:FN3.png
+
+symbol:
+	code:FN4.png
+	image:FN4.png
+
+symbol:
+	code:FN5.png
+	image:FN5.png
+
+symbol:
+	code:FN6.png
+	image:FN6.png
+
+symbol:
+	code:FN7.png
+	image:FN7.png
+
+symbol:
+	code:FN8.png
+	image:FN8.png
+
+symbol:
+	code:FN9.png
+	image:FN9.png
+
+symbol:
+	code:FN10.png
+	image:FN10.png
+
+symbol:
+	code:FN11.png
+	image:FN11.png
+
+symbol:
+	code:FN12.png
+	image:FN12.png
+
+symbol:
+	code:FN13.png
+	image:FN13.png
+
+symbol:
+	code:FN14.png
+	image:FN14.png
+
+symbol:
+	code:FN15.png
+	image:FN15.png
+
+symbol:
+	code:LD1.png
+	image:LD1.png
+
+symbol:
+	code:LD2.png
+	image:LD2.png
+
+symbol:
+	code:LD3.png
+	image:LD3.png
+
+symbol:
+	code:LD4.png
+	image:LD4.png
+
+symbol:
+	code:LD5.png
+	image:LD5.png
+
+symbol:
+	code:LD6.png
+	image:LD6.png
+
+symbol:
+	code:LD7.png
+	image:LD7.png
+
+symbol:
+	code:LD8.png
+	image:LD8.png
+
+symbol:
+	code:LD9.png
+	image:LD9.png
+
+symbol:
+	code:LD10.png
+	image:LD10.png
+
+symbol:
+	code:LD11.png
+	image:LD11.png
+
+symbol:
+	code:LD12.png
+	image:LD12.png
+
+symbol:
+	code:LD13.png
+	image:LD13.png
+
+symbol:
+	code:LD14.png
+	image:LD14.png
+
+symbol:
+	code:LD15.png
+	image:LD15.png
+
+symbol:
+	code:LD1.png
+	image:LD1.png
+
+symbol:
+	code:LD2.png
+	image:LD2.png
+
+symbol:
+	code:LD3.png
+	image:LD3.png
+
+symbol:
+	code:LD4.png
+	image:LD4.png
+
+symbol:
+	code:LD5.png
+	image:LD5.png
+
+symbol:
+	code:LD6.png
+	image:LD6.png
+
+symbol:
+	code:LD7.png
+	image:LD7.png
+
+symbol:
+	code:LD8.png
+	image:LD8.png
+
+symbol:
+	code:LD9.png
+	image:LD9.png
+
+symbol:
+	code:LD10.png
+	image:LD10.png
+
+symbol:
+	code:LD11.png
+	image:LD11.png
+
+symbol:
+	code:LD12.png
+	image:LD12.png
+
+symbol:
+	code:LD13.png
+	image:LD13.png
+
+symbol:
+	code:LD14.png
+	image:LD14.png
+
+symbol:
+	code:LD15.png
+	image:LD15.png
+
+symbol:
+	code:LF1.png
+	image:LF1.png
+
+symbol:
+	code:LF2.png
+	image:LF2.png
+
+symbol:
+	code:LF3.png
+	image:LF3.png
+
+symbol:
+	code:LF4.png
+	image:LF4.png
+
+symbol:
+	code:LF5.png
+	image:LF5.png
+
+symbol:
+	code:LF6.png
+	image:LF6.png
+
+symbol:
+	code:LF7.png
+	image:LF7.png
+
+symbol:
+	code:LF8.png
+	image:LF8.png
+
+symbol:
+	code:LF9.png
+	image:LF9.png
+
+symbol:
+	code:LF10.png
+	image:LF10.png
+
+symbol:
+	code:LF11.png
+	image:LF11.png
+
+symbol:
+	code:LF12.png
+	image:LF12.png
+
+symbol:
+	code:LF13.png
+	image:LF13.png
+
+symbol:
+	code:LF14.png
+	image:LF14.png
+
+symbol:
+	code:LF15.png
+	image:LF15.png
+
+symbol:
+	code:LF1.png
+	image:LF1.png
+
+symbol:
+	code:LF2.png
+	image:LF2.png
+
+symbol:
+	code:LF3.png
+	image:LF3.png
+
+symbol:
+	code:LF4.png
+	image:LF4.png
+
+symbol:
+	code:LF5.png
+	image:LF5.png
+
+symbol:
+	code:LF6.png
+	image:LF6.png
+
+symbol:
+	code:LF7.png
+	image:LF7.png
+
+symbol:
+	code:LF8.png
+	image:LF8.png
+
+symbol:
+	code:LF9.png
+	image:LF9.png
+
+symbol:
+	code:LF10.png
+	image:LF10.png
+
+symbol:
+	code:LF11.png
+	image:LF11.png
+
+symbol:
+	code:LF12.png
+	image:LF12.png
+
+symbol:
+	code:LF13.png
+	image:LF13.png
+
+symbol:
+	code:LF14.png
+	image:LF14.png
+
+symbol:
+	code:LF15.png
+	image:LF15.png
+
+symbol:
+	code:LN1.png
+	image:LN1.png
+
+symbol:
+	code:LN2.png
+	image:LN2.png
+
+symbol:
+	code:LN3.png
+	image:LN3.png
+
+symbol:
+	code:LN4.png
+	image:LN4.png
+
+symbol:
+	code:LN5.png
+	image:LN5.png
+
+symbol:
+	code:LN6.png
+	image:LN6.png
+
+symbol:
+	code:LN7.png
+	image:LN7.png
+
+symbol:
+	code:LN8.png
+	image:LN8.png
+
+symbol:
+	code:LN9.png
+	image:LN9.png
+
+symbol:
+	code:LN10.png
+	image:LN10.png
+
+symbol:
+	code:LN11.png
+	image:LN11.png
+
+symbol:
+	code:LN12.png
+	image:LN12.png
+
+symbol:
+	code:LN13.png
+	image:LN13.png
+
+symbol:
+	code:LN14.png
+	image:LN14.png
+
+symbol:
+	code:LN15.png
+	image:LN15.png
+
+symbol:
+	code:LN1.png
+	image:LN1.png
+
+symbol:
+	code:LN2.png
+	image:LN2.png
+
+symbol:
+	code:LN3.png
+	image:LN3.png
+
+symbol:
+	code:LN4.png
+	image:LN4.png
+
+symbol:
+	code:LN5.png
+	image:LN5.png
+
+symbol:
+	code:LN6.png
+	image:LN6.png
+
+symbol:
+	code:LN7.png
+	image:LN7.png
+
+symbol:
+	code:LN8.png
+	image:LN8.png
+
+symbol:
+	code:LN9.png
+	image:LN9.png
+
+symbol:
+	code:LN10.png
+	image:LN10.png
+
+symbol:
+	code:LN11.png
+	image:LN11.png
+
+symbol:
+	code:LN12.png
+	image:LN12.png
+
+symbol:
+	code:LN13.png
+	image:LN13.png
+
+symbol:
+	code:LN14.png
+	image:LN14.png
+
+symbol:
+	code:LN15.png
+	image:LN15.png
+
+symbol:
+	code:LW1.png
+	image:LW1.png
+
+symbol:
+	code:LW2.png
+	image:LW2.png
+
+symbol:
+	code:LW3.png
+	image:LW3.png
+
+symbol:
+	code:LW4.png
+	image:LW4.png
+
+symbol:
+	code:LW5.png
+	image:LW5.png
+
+symbol:
+	code:LW6.png
+	image:LW6.png
+
+symbol:
+	code:LW7.png
+	image:LW7.png
+
+symbol:
+	code:LW8.png
+	image:LW8.png
+
+symbol:
+	code:LW9.png
+	image:LW9.png
+
+symbol:
+	code:LW10.png
+	image:LW10.png
+
+symbol:
+	code:LW11.png
+	image:LW11.png
+
+symbol:
+	code:LW12.png
+	image:LW12.png
+
+symbol:
+	code:LW13.png
+	image:LW13.png
+
+symbol:
+	code:LW14.png
+	image:LW14.png
+
+symbol:
+	code:LW15.png
+	image:LW15.png
+
+symbol:
+	code:LW1.png
+	image:LW1.png
+
+symbol:
+	code:LW2.png
+	image:LW2.png
+
+symbol:
+	code:LW3.png
+	image:LW3.png
+
+symbol:
+	code:LW4.png
+	image:LW4.png
+
+symbol:
+	code:LW5.png
+	image:LW5.png
+
+symbol:
+	code:LW6.png
+	image:LW6.png
+
+symbol:
+	code:LW7.png
+	image:LW7.png
+
+symbol:
+	code:LW8.png
+	image:LW8.png
+
+symbol:
+	code:LW9.png
+	image:LW9.png
+
+symbol:
+	code:LW10.png
+	image:LW10.png
+
+symbol:
+	code:LW11.png
+	image:LW11.png
+
+symbol:
+	code:LW12.png
+	image:LW12.png
+
+symbol:
+	code:LW13.png
+	image:LW13.png
+
+symbol:
+	code:LW14.png
+	image:LW14.png
+
+symbol:
+	code:LW15.png
+	image:LW15.png
+
+symbol:
+	code:WD1.png
+	image:WD1.png
+
+symbol:
+	code:WD2.png
+	image:WD2.png
+
+symbol:
+	code:WD3.png
+	image:WD3.png
+
+symbol:
+	code:WD4.png
+	image:WD4.png
+
+symbol:
+	code:WD5.png
+	image:WD5.png
+
+symbol:
+	code:WD6.png
+	image:WD6.png
+
+symbol:
+	code:WD7.png
+	image:WD7.png
+
+symbol:
+	code:WD8.png
+	image:WD8.png
+
+symbol:
+	code:WD9.png
+	image:WD9.png
+
+symbol:
+	code:WD10.png
+	image:WD10.png
+
+symbol:
+	code:WD11.png
+	image:WD11.png
+
+symbol:
+	code:WD12.png
+	image:WD12.png
+
+symbol:
+	code:WD13.png
+	image:WD13.png
+
+symbol:
+	code:WD14.png
+	image:WD14.png
+
+symbol:
+	code:WD15.png
+	image:WD15.png
+
+symbol:
+	code:WD1.png
+	image:WD1.png
+
+symbol:
+	code:WD2.png
+	image:WD2.png
+
+symbol:
+	code:WD3.png
+	image:WD3.png
+
+symbol:
+	code:WD4.png
+	image:WD4.png
+
+symbol:
+	code:WD5.png
+	image:WD5.png
+
+symbol:
+	code:WD6.png
+	image:WD6.png
+
+symbol:
+	code:WD7.png
+	image:WD7.png
+
+symbol:
+	code:WD8.png
+	image:WD8.png
+
+symbol:
+	code:WD9.png
+	image:WD9.png
+
+symbol:
+	code:WD10.png
+	image:WD10.png
+
+symbol:
+	code:WD11.png
+	image:WD11.png
+
+symbol:
+	code:WD12.png
+	image:WD12.png
+
+symbol:
+	code:WD13.png
+	image:WD13.png
+
+symbol:
+	code:WD14.png
+	image:WD14.png
+
+symbol:
+	code:WD15.png
+	image:WD15.png
+
+symbol:
+	code:WF1.png
+	image:WF1.png
+
+symbol:
+	code:WF2.png
+	image:WF2.png
+
+symbol:
+	code:WF3.png
+	image:WF3.png
+
+symbol:
+	code:WF4.png
+	image:WF4.png
+
+symbol:
+	code:WF5.png
+	image:WF5.png
+
+symbol:
+	code:WF6.png
+	image:WF6.png
+
+symbol:
+	code:WF7.png
+	image:WF7.png
+
+symbol:
+	code:WF8.png
+	image:WF8.png
+
+symbol:
+	code:WF9.png
+	image:WF9.png
+
+symbol:
+	code:WF10.png
+	image:WF10.png
+
+symbol:
+	code:WF11.png
+	image:WF11.png
+
+symbol:
+	code:WF12.png
+	image:WF12.png
+
+symbol:
+	code:WF13.png
+	image:WF13.png
+
+symbol:
+	code:WF14.png
+	image:WF14.png
+
+symbol:
+	code:WF15.png
+	image:WF15.png
+
+symbol:
+	code:WF1.png
+	image:WF1.png
+
+symbol:
+	code:WF2.png
+	image:WF2.png
+
+symbol:
+	code:WF3.png
+	image:WF3.png
+
+symbol:
+	code:WF4.png
+	image:WF4.png
+
+symbol:
+	code:WF5.png
+	image:WF5.png
+
+symbol:
+	code:WF6.png
+	image:WF6.png
+
+symbol:
+	code:WF7.png
+	image:WF7.png
+
+symbol:
+	code:WF8.png
+	image:WF8.png
+
+symbol:
+	code:WF9.png
+	image:WF9.png
+
+symbol:
+	code:WF10.png
+	image:WF10.png
+
+symbol:
+	code:WF11.png
+	image:WF11.png
+
+symbol:
+	code:WF12.png
+	image:WF12.png
+
+symbol:
+	code:WF13.png
+	image:WF13.png
+
+symbol:
+	code:WF14.png
+	image:WF14.png
+
+symbol:
+	code:WF15.png
+	image:WF15.png
+
+symbol:
+	code:WN1.png
+	image:WN1.png
+
+symbol:
+	code:WN2.png
+	image:WN2.png
+
+symbol:
+	code:WN3.png
+	image:WN3.png
+
+symbol:
+	code:WN4.png
+	image:WN4.png
+
+symbol:
+	code:WN5.png
+	image:WN5.png
+
+symbol:
+	code:WN6.png
+	image:WN6.png
+
+symbol:
+	code:WN7.png
+	image:WN7.png
+
+symbol:
+	code:WN8.png
+	image:WN8.png
+
+symbol:
+	code:WN9.png
+	image:WN9.png
+
+symbol:
+	code:WN10.png
+	image:WN10.png
+
+symbol:
+	code:WN11.png
+	image:WN11.png
+
+symbol:
+	code:WN12.png
+	image:WN12.png
+
+symbol:
+	code:WN13.png
+	image:WN13.png
+
+symbol:
+	code:WN14.png
+	image:WN14.png
+
+symbol:
+	code:WN15.png
+	image:WN15.png
+
+symbol:
+	code:WN1.png
+	image:WN1.png
+
+symbol:
+	code:WN2.png
+	image:WN2.png
+
+symbol:
+	code:WN3.png
+	image:WN3.png
+
+symbol:
+	code:WN4.png
+	image:WN4.png
+
+symbol:
+	code:WN5.png
+	image:WN5.png
+
+symbol:
+	code:WN6.png
+	image:WN6.png
+
+symbol:
+	code:WN7.png
+	image:WN7.png
+
+symbol:
+	code:WN8.png
+	image:WN8.png
+
+symbol:
+	code:WN9.png
+	image:WN9.png
+
+symbol:
+	code:WN10.png
+	image:WN10.png
+
+symbol:
+	code:WN11.png
+	image:WN11.png
+
+symbol:
+	code:WN12.png
+	image:WN12.png
+
+symbol:
+	code:WN13.png
+	image:WN13.png
+
+symbol:
+	code:WN14.png
+	image:WN14.png
+
+symbol:
+	code:WN15.png
+	image:WN15.png
+
+symbol:
+	code:C1.png
+	image:C1.png
+
+symbol:
+	code:C2.png
+	image:C2.png
+
+symbol:
+	code:C3.png
+	image:C3.png
+
+symbol:
+	code:C4.png
+	image:C4.png
+
+symbol:
+	code:C5.png
+	image:C5.png
+
+symbol:
+	code:C6.png
+	image:C6.png
+
+symbol:
+	code:C7.png
+	image:C7.png
+
+symbol:
+	code:C8.png
+	image:C8.png
+
+symbol:
+	code:C9.png
+	image:C9.png
+
+symbol:
+	code:C10.png
+	image:C10.png
+
+symbol:
+	code:C11.png
+	image:C11.png
+
+symbol:
+	code:C12.png
+	image:C12.png
+
+symbol:
+	code:C13.png
+	image:C13.png
+
+symbol:
+	code:C14.png
+	image:C14.png
+
+symbol:
+	code:C15.png
+	image:C15.png

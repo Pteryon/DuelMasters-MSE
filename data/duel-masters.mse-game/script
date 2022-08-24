@@ -1,0 +1,83 @@
+input_filter := {
+	input := to_lower(input)
+	input := replace(input, match:", ", replace:"")
+	input := sort_text(input, order: "[lwdfncj]")
+	input := substring(input, end:5)
+}
+
+input_filter_2 := {
+	input := to_lower(input)
+	input := sort_text(input, order: "[ces]")
+	input := substring(input, end:1)
+}
+
+input_filter_3 := {
+	input := to_lower(input)
+	input := sort_text(input, order: "[123]")
+	input := substring(input, end:1)
+}
+
+input_filter_5 := {
+	input := to_upper(input)
+}
+
+cost_filter := {
+	if card.symbol_text != "" then "manacost" + "_" + card.symbol_text + ".png"
+	else "manacost_c.png"
+}
+
+tap_filter:= {
+	if card.symbol_text == "l" then false
+	else if card.symbol_text == "w" then false
+	else if card.symbol_text == "d" then false
+	else if card.symbol_text == "f" then false
+	else if card.symbol_text == "n" then false
+	else true
+}
+
+kingdom_filter := {
+	if card.kingdom_text != "" then "civ" + "_" + card.kingdom_text + ".png"
+	else nil
+}
+
+symbol_filter := {	
+	if card.symbol_text != "" then "symbol" + "_" + card.symbol_text + ".png"
+	else "symbol_c.png"
+}
+
+background_filter := {
+	if card.symbol_text != "" then (if card.type_text == "s" then "spell" 
+	else "creature") + "_" + card.symbol_text + ".png"
+	else "creature_c.png"
+}
+
+type_filter := {
+	if card.symbol_text != "" and card.symbol_text != "cj" then (if card.type_text == "s" then "spelltype" 
+	else if card.type_text == "c" then "creaturetype"
+	else if card.type_text == "e" then "evotype"
+	else "creaturetype") + "_" + card.symbol_text + ".png"
+	else "creaturetype_c.png"
+}
+
+power_filter := {
+	if card.symbol_text != "" and card.type_text != "s" then (if card.power_text == "1" then "powersmall" 
+	else if card.power_text == "2" then "powermid"
+	else if card.power_text == "3" then "powerbig"
+	else "powersmall") + "_" + card.symbol_text + ".png"
+	else nil
+}
+
+civspell_filter := {
+	"civspell" + "_" + card.symbol_text + ".png"
+}
+
+rarity_filter := {
+	if card.rarity_text == "1" then (card.type_text + "_mask.png")
+	else if card.rarity_text == "2" then "rare_mask.png"
+	else if card.rarity_text == "3" then "no_mask.png"
+	else nil
+}
+
+thorns_filter := {
+	"thorns" + "_" + card.symbol_text + ".png"
+}
